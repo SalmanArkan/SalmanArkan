@@ -1,5 +1,6 @@
 # <img alt="Petroleum" width="35px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-refinery-1841986-1564903.png"/> Salman Arkan
 
+![github_cover_banner](https://www.canva.com/design/DAFkv4I_poY/s-PQPwko5SfMVUuyPp5wmw/edit?utm_content=DAFkv4I_poY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 **`Petro Ranger (Bachelor Petroleum Engineer)`**
 
