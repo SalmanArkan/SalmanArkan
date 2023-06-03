@@ -1,8 +1,9 @@
 # <img alt="Petroleum" width="35px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-refinery-1841986-1564903.png"/> Salman Arkan
 
-![logo](https://github.com/SalmanArkan/SalmanArkan/blob/main/Github%20Banner.mp4)
-
 **`Petro Ranger (Bachelor Petroleum Engineer)`**
+
+
+![logo](https://github.com/SalmanArkan/SalmanArkan/blob/main/GithubBanner.gif)
 
 Passionate about the energy industry, mainly in the oil and gas or geothermal industries. Proven track record in complex and intensive experience and internship, delivering value and innovation in an organization. Familiar with industrial standards for oilfield operations, particularly in drilling, focusing on internship on the Rate of Penetration (ROP) for prediction using machine learning in PT Pertamina EP. Acquired several abilities from academic, extracurricular, volunteer, and competitive experiences, including leadership, working under pressure, quick learning, problem-solving, and cooperation. Take responsibility seriously, am flexible, and constantly outperform expectations.
 
